@@ -82,28 +82,6 @@ Flutter project ระบบจัดการข้อมูลนิสิต 
 
 <img src="https://drive.google.com/uc?id=1YC2i1lgW7vOniTx3qLKXjMgt3H1UwUix" />
 
-## 📢 New Features PHASE III 
-
-📌 [Login Module]
-> coming soon
-
-📌  [Home Module]
-> coming soon
-
-📌 [More Module (Home)] 
-> coming soon
-
-📌  [Resume Module]
-> coming soon
-
-📌  [Profile Module]
-> coming soon
-
-📌 [Activity Module]
-> coming soon
-
-<img src="images/ph3-1.png"/>
-
 
 
 
