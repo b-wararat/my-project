@@ -2,27 +2,6 @@
 <p align="center">
     <img src="https://webzbinaryz.web.app/assets/EZ@U2.png"
         height="130">
-</p>
-<p align="center">
- 
- <img src="https://img.shields.io/static/v1?label=Application&message=1.0.0&color=yellow" alt="Application">
- <img src="https://img.shields.io/static/v1?label=Flutter&message=3.3.10&color=blue" alt="Flutter-Version">
- <img src="https://img.shields.io/static/v1?label=Dart&message=3.3.10&color=blue" alt="Dart-Version">
-  <img src="https://img.shields.io/static/v1?label=Android-SDK&message=33.0.1&color=%3Cyellowgreen%3E" alt="Android-SDK-Version"> 
- 
-  <img src="https://img.shields.io/static/v1?label=Android Studio&message=2021.3&color=%3Cyellowgreen%3E" alt="Android Studio"> 
- 
-  <img src="https://img.shields.io/github/directory-file-count/math-sci-buu-db-169/project-mobile-ez-at-u" alt="file-count"> 
-  
- 
-  <img src="https://img.shields.io/codeclimate/issues/math-sci-buu-db-169/project-mobile-ez-at-u?style=plastic" alt="issues"> 
-  
-  <img src="https://img.shields.io/github/repo-size/math-sci-buu-db-169/project-mobile-ez-at-u" alt="repo-size"> 
- 
-
- 
-</p>
-
 
 # 📱 Easy At You 
 ระบบจัดการข้อมูลนิสิต พัฒนาโดยนักศึกษาภาควิชาคณิตศาสตร์ คณะวิทยาศาสตร์ มหาวิทยาลัยบูรพา.
